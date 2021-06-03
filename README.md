@@ -1,1 +1,11 @@
+The data for the training and testing can be found in thie following link:
+
+https://drive.google.com/file/d/1NiiEsKMV9G7-rCCIVDcBK258hXAS9kzj/view?usp=haring
+
+This data is now divided into two parts ie, test and train based on the names of images.The images containing the word "script" in them ar part of train data,while the rest of the images are part of test data.
+
+This can be done by using the data separator.ipynb file.
+
+After the data is separated, it is uploaded to google drive, which makes it easier to access while working on Google Colab.
+
 
