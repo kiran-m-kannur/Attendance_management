@@ -8,4 +8,10 @@ This can be done by using the data separator.ipynb file.This also extracts face 
 
 After the data is separated, it is uploaded to google drive, which makes it easier to access while working on Google Colab.
 
+Upload the attendance management.ipyb to your google colab
+
+In the ipynb, the first cell intializes your colab with your Google drive.Just execute the cell and go to the link down below, copyy the success code and then press enter.
+This must connect your google drive with the notebook.Now you can use colab and drive as local notebook
+
+Before excecuting the code, make sure the runtime type is set to cuda.
 
