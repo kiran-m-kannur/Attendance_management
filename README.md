@@ -15,3 +15,6 @@ This connects your google drive with the notebook.
 
 Before excecuting the code, make sure the runtime type is set to cuda.
 
+If you dont want the hassle to run and train the program, you can directly download the model and start predicting using this link:
+
+https://drive.google.com/file/d/1eRgFyoXDbozcklP51IODesJacT4ggnBH/view?usp=sharing
